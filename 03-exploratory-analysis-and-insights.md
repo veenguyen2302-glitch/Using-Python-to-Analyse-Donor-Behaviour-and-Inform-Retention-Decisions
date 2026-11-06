@@ -19,7 +19,7 @@ The final Part D analysis examined **19,194 eligible supporters** whose first ob
 
 ## 1. How often did supporters return?
 
-![Only 16.6% repeated within 24 months](../assets/repeat-giving-overview.png)
+![Only 16.6% repeated within 24 months](assets/repeat-giving-overview.png)
 
 **Insight.** Of 19,194 eligible supporters, **3,194** made a later qualifying one-off gift within 24 months; **16,000** did not record that specific outcome. The first-gift-year rates were **19.6% (2021; n=5,465)**, **17.0% (2022; n=6,842)** and **13.9% (2023; n=6,275)**. The partial 2024 cohort (**n=612**) recorded **15.5%**.
 
@@ -27,7 +27,7 @@ The final Part D analysis examined **19,194 eligible supporters** whose first ob
 
 ## 2. Does first-gift amount distinguish repeat behaviour?
 
-![Repeat rate by first-gift amount](../assets/first-gift-context.png)
+![Repeat rate by first-gift amount](assets/first-gift-context.png)
 
 **Insight.** Observed repeat rates increase across first-gift amount bands, from **13.2%** for supporters giving $50 or less to **23.3%** for $251–500. The highest-value band reached **38.0%**, but contained only **150 supporters**. Crucially, **9,095 supporters (47.4%)** made an initial gift of $50 or less.
 
@@ -37,7 +37,7 @@ The final Part D analysis examined **19,194 eligible supporters** whose first ob
 
 ## 3. Which acquisition journeys warrant investigation?
 
-![Observed repeat giving by acquisition channel](../assets/acquisition-channel-comparison.png)
+![Observed repeat giving by acquisition channel](assets/acquisition-channel-comparison.png)
 
 **Insight.** Website dominated the descriptive cohort (**17,427 supporters; 90.8%**) and recorded a **17.0%** repeat rate. Retail Stand Internal recorded **3.7% (32/860)**. Several smaller channels had higher observed rates, but their different audiences and sample sizes limit direct comparisons.
 
@@ -67,7 +67,7 @@ The Retail Stand gap remained within several comparable first-gift products:
 
 ## 5. When did repeat supporters make their second gift?
 
-![Distribution of time to second gift](../assets/second-gift-timing.png)
+![Distribution of time to second gift](assets/second-gift-timing.png)
 
 | Milestone after first gift | Cumulative repeat supporters | Share of the 3,194 eventual repeat supporters |
 |---|---:|---:|
