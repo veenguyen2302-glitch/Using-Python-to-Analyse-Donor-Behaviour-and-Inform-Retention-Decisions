@@ -1,0 +1,27 @@
+CONTENT REVIEW — 13 November 2026
+
+Source authority: Part D Final Report and Part D presentation; notebook reviewed for implementation and recorded-result context. The published repository's previous six file contents were inspected during the earlier live GitHub review; current local copies of these pages were used as the editable starting point.
+
+CONTENT DIAGNOSIS
+- README gave neither findings nor navigation; revised to a compact entry point with one existing chart.
+- Stage 1 repeated detailed interventions; revised to business framing and scope.
+- Stage 2 was accurate but long; shortened to source roles, consequential quality checks and actual cohort rules.
+- Stage 3 buried product and relationship evidence in a paragraph/table and jumped to actions. Both have distinct subsections, and the ending now motivates H1–H4.
+- Stage 4 reported strong results but didn't explicitly organise interpretation around H1–H4. Now distinguishes descriptive association, fitted-model permutation reliance and Top-K utility.
+- Stage 5 originally foregrounded pilot mechanics. Now begins with Part D's integrated interpretation, four report recommendations and compact evaluation requirements.
+
+VISUALS
+- Existing links retained: overall repeat, amount, channel, second-gift timing, model comparison, cohort timeline, Top-20%, feature importance and controlled pilot.
+- Missing desirable visuals for later work (NOT added to this content-first version): first-gift cohort trend, first-gift product, prior relationship. Previously drafted separate PNGs exist but were not included because they aren't in the current published assets directory.
+- Known graphic defects to fix later: second-gift-timing callouts overlap the x-axis caption; model-comparison footer spacing; evidence-to-action diagram column-heading spacing. No chart design was changed here.
+
+UNRESOLVED / SOURCE LIMITATIONS
+- Part D calls final cohort 'untouched'; current portfolio appropriately qualifies broad EDA overlap with later test period.
+- Historical first-gift-year split is not fully point-in-time label-availability validation.
+- Top-K ceiling count 1,349 vs percentile-segment count 1,348; both have 313 repeaters.
+- Difference in 16.6% descriptive vs 13.8% Mass test baseline is population-specific, not a discrepancy.
+- Original notebook is not independently reproducible without WVA data; no raw extracts rerun.
+- The source presentation's recommendation schematic also contains additional practical messages; this version follows the four Part D report recommendations as authority.
+- Public permission to disclose client-derived information remains unverified.
+
+File-level QA: images in markdown point to existing published assets; no graphical assets included or replaced, so upload content changes alone to existing repository after disclosure approval.
