@@ -14,6 +14,8 @@ The Part D project completed **historical analysis, model evaluation and recomme
 
 ## 2. Four Part D recommendation areas
 
+![Evidence connected to four Part D recommendations](assets/evidence-to-action-framework.png)
+
 | Recommendation | Supporting evidence | Proposed action | What needs validation |
 |---|---|---|---|
 | **1 · Introduce first-gift prioritisation** | Mass Top-20% ranking: **23.2% vs 13.8%** | Test High Priority, Nurture and Standard attention levels; retain a standard journey for all supporters | Stability in future cohorts, comparison with simpler rules and incremental outcomes |
@@ -24,6 +26,8 @@ The Part D project completed **historical analysis, model evaluation and recomme
 These are **recommendations**, not documented WVA implementation decisions. The Retail Stand comparison is observational and does not establish a causal channel effect.
 
 ## 3. How would WVA know whether an action worked?
+
+![Proposed value measurement and decision framework](assets/business-value-decision-framework.png)
 
 **Predictive performance and intervention impact are different questions.** A high-ranked supporter may give again without additional contact. Future evaluation therefore needs a fair comparison against the existing supporter journey.
 

@@ -8,7 +8,11 @@
 
 ![Overall 24-month qualifying repeat giving](assets/repeat-giving-overview.png)
 
+![Repeat rate across first-gift cohorts](assets/repeat-cohort-trend.png)
+
 **3,194 supporters (16.6%)** made another qualifying one-off gift; **16,000** did not record this specific outcome. Repeat rates differed by first-gift cohort: **19.6% in 2021** (n=5,465), **17.0% in 2022** (n=6,842), **13.9% in 2023** (n=6,275) and **15.5% in partial 2024** (n=612). Changing composition or coverage may contribute; the rates do not prove declining programme performance. **Implication for analysis:** later-cohort model testing matters.
+
+![Observed repeat rates by first-gift cohort](assets/repeat-cohort-trend.png)
 
 ## 2. Is first-gift amount enough?
 
@@ -18,15 +22,11 @@ Observed repeat giving generally rose with initial value: **13.2% for $0–50**,
 
 ## 3. Does first-gift product add context?
 
-| Primary first-gift product | Supporters | 24-month repeat rate |
-|---|---:|---:|
-| Multiplying Gift Appeal | 602 | **36.2%** |
-| WV Regular Giving | 5,602 | **19.4%** |
-| Emergency Relief | 5,534 | **15.3%** |
-| World Vision Gifts | 5,819 | **14.0%** |
-| Child Rescue | — | **10.2%** |
+![Repeat rate by first-gift product](assets/repeat-by-product.png)
 
-*Product categories reflect the primary qualifying first-day transaction, not evidence that a supporter held an active ongoing commitment. The Child Rescue group size is omitted here because it was not independently confirmed from the available summary.*
+**Product differences:** Multiplying Gift Appeal recorded **36.2%** (n=602), compared with **19.4%** for WV Regular Giving (n=5,602), **15.3%** for Emergency Relief (n=5,534), **14.0%** for World Vision Gifts (n=5,819) and **10.2%** for Child Rescue (denominator not independently confirmed).
+
+*Product labels describe the primary qualifying first-day transaction, not an active ongoing commitment.*
 
 Product-level differences indicate that gift value does not fully describe the initial appeal or supporter context. They motivate evaluating product alongside amount, **not** assuming particular products cause retention.
 
@@ -36,12 +36,11 @@ Product-level differences indicate that gift value does not fully describe the i
 
 **Website** represented **17,427 supporters (90.8%)** with a **17.0%** repeat rate; **Retail Stand Internal** recorded **3.7% (32/860)**. Smaller channels vary markedly and need caution. The gap also appeared *within comparable products*:
 
-| Primary product | Website | Retail Stand Internal |
-|---|---:|---:|
-| WV Regular Giving | 19.9% (n=5,205) | 3.3% (n=243) |
-| Child Rescue | 19.1% (n=293) | 2.9% (n=314) |
-| World Vision Gifts | 14.3% (n=5,550) | 5.3% (n=207) |
-| Emergency Relief | 15.1% (n=5,238) | 4.8% (n=63) |
+The cross-product comparison below tests whether the channel gap simply reflects different product mixes. It appears within WV Regular Giving, Child Rescue, World Vision Gifts and Emergency Relief; supporter populations remain observational.
+
+![Website versus Retail Stand within first-gift products](assets/website-vs-retail-by-product.png)
+
+![Website versus Retail Stand Internal within products](assets/website-vs-retail-by-product.png)
 
 The within-product comparison weakens a **product-mix-only** explanation. It does **not** identify the cause: acquisition intent, recording quality or subsequent contact experience might differ.
 
@@ -49,16 +48,15 @@ The within-product comparison weakens a **product-mix-only** explanation. It doe
 
 Two **different classifications** were analysed:
 
-| Relationship definition | Group | Supporters | Repeat rate |
-|---|---|---:|---:|
-| **Ongoing commitment history** | Former ongoing | 399 | **21.3%** (85) |
-| | No prior ongoing commitment | 18,795 | **16.5%** (3,109) |
-| **WVA database history** | Known before first qualifying gift | 1,699 | **22.4%** (381) |
-| | Joined on first-gift date | 17,136 | **16.0%** (2,747) |
+![Observed repeat rate by prior relationship](assets/repeat-by-relationship.png)
 
-*The classifications are not four mutually exclusive segments. Database join history was unknown/inconsistent for another 359 supporters; active ongoing supporters at first gift were excluded.*
+![Repeat giving by prior relationship classifications](assets/repeat-by-relationship.png)
 
-Prior relationships coincide with higher observed repeat rates. Whether they provide **new predictive information after product, value and channel are combined** is a separate Stage 4 question.
+**Ongoing commitment history:** Former ongoing supporters repeated at **21.3%** (85/399), compared with **16.5%** (3,109/18,795) for those without prior ongoing commitments.
+
+**WVA database history:** Previously known supporters repeated at **22.4%** (381/1,699), versus **16.0%** (2,747/17,136) for those joining on their first-gift date. These are **two separate, overlapping classifications**; join history was inconsistent or unknown for another 359 supporters.
+
+Prior relationships coincide with higher observed repeat rates. Among first gifts of $50 or less, the report also recorded **21.2% versus 12.6%** across previously known versus new-at-first-gift supporters. Whether relationship data provides **new predictive information after product, value and channel are combined** is a separate Stage 4 question.
 
 ## 6. When did supporters repeat?
 

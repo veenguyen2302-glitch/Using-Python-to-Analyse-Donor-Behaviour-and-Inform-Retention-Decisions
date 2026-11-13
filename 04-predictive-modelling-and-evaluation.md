@@ -56,7 +56,7 @@ The final **6,741-supporter Mass test cohort** contained **929 repeat donors (13
 | All eligible Mass test supporters | 6,741 | 929 | **13.8%** |
 | **Highest-ranked 20%** | **1,349** | **313** | **23.2%** |
 
-The top-ranked group contained **33.7% of all observed repeat donors**, achieving **Lift@20 of 1.68×** versus the test baseline. **H4 supports further investigation of relative prioritisation—not a claim that targeting generated extra donations.** No amount-only/product-only rule was tested at equal selection capacity in the published comparison.
+The top-ranked group contained **33.7% of all observed repeat donors**, achieving **Lift@20 of 1.68×** versus the test baseline. The separate historical tiered summary recorded **23.2%** for High Priority (top 20%), **15.5%** for Nurture (next 20%) and **10.1%** for Standard (remaining 60%). **H4 supports further investigation of relative prioritisation—not a claim that targeting generated extra donations.** No amount-only/product-only rule was tested at equal selection capacity in the published comparison.
 
 *Top-K note:* Ceiling-based selection produced **1,349** supporters, while a separate percentile-based segmentation selected **1,348**; both recorded 313 repeaters. A future operational rule would need consistent rounding and tie handling.
 
