@@ -15,7 +15,7 @@ The project examined **another qualifying one-off gift on a later date within 24
 | **ROC-AUC 0.6266** on 6,741 Mass test supporters | The selected Logistic Regression model had **moderate individual-level discrimination**. |
 | **Top 20%: 23.2% vs 13.8% overall**; Lift@20 **1.68×**, Capture@20 **33.7%** | The historical ranking concentrated repeat donors in a smaller group; it did **not** demonstrate campaign uplift. |
 
-![Historical Top-20% prioritisation performance](assets/top20-prioritisation.png)
+![World Vision Australia — Donor Retention Analytics](assets/project-highlights.png)
 
 **Business conclusion:** First-gift product, amount and acquisition channel provided complementary early signals. Prior WVA relationships had descriptive relevance but limited additional predictive importance. Together with the timing of repeat gifts, the results support **testing** retention prioritisation, relevant follow-up and first-year/anniversary contact windows—not claiming these actions have already improved giving.
 
